@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+
+    <string name="action_example" translatable="true">Example action</string>
+
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill"></string>
+    <string name="widget_title" translatable="true">Today\'s Market</string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+
+
+    <string name="add_stock" translatable="true">Add stock</string>
+    <string name="stock_symbol" translatable="true">Stock symbol</string>
+    <string name="stock_bid_price" translatable="true">Stock bid price</string>
+    <string name="stock_price_change" translatable="true">Stock price change</string>
+
+    <!--Strings Used In Toast-->
+    <string name="stock_already_exist" translatable="true">This stock is already saved!</string>
+    <string name="stock_symbol_not_found" translatable="true">Stock you tried to add was not found</string>
+    <string name="unable_to_get_data" translatable="true">Unable to get data. Check internet connection</string>
+
+    <string name="today" translatable="true">Today</string>
+    <string name="No_internet" translatable="true">This app requires an internet connection. \n Prices might be outdated</string>
+
+    <string name="string_set_background_resource" translatable="false">setBackgroundResource</string>
+</resources>
